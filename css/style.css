@@ -1,4 +1,14 @@
 @import "./Global/global.css";
 @import "./Global/header.css";
+
+
 @import "./Home/introducao.css";
+@import "./Home/tecnologia.css";
+
+
 @import "./Utilidades/componentes.css";
+@import "./Utilidades/cores.css";
+@import "./Utilidades/tipografia.css";
+
+
+@import "./Bikes/bicicletas-lista.css";
